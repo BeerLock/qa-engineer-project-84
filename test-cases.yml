@@ -34,7 +34,7 @@
       Открыта страница интернет-магазина
     test-data: |
       https://hexlet-products-store.vercel.app/
-    steps:
+    steps: []
     expected-result: |
       Пользователь видит карточки и подробную ифнормацию о них
       
@@ -91,7 +91,7 @@
       Открыта страница интернет-магазина
     test-data: |
       https://hexlet-products-store.vercel.app/
-    steps:
+    steps: []
     expected-result: |
       На сайте имеется https протокол, сайт безопасен
       
