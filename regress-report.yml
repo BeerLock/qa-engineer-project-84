@@ -75,8 +75,7 @@ bugreports:
       Google Chrome Версия 108.0.5359.125 (Официальная сборка), (64 бит)
       OC Windows 10 Pro 21H2
     steps-to-reproduce: |
-      1. Зайти на страницу https://hexlet-products-store.vercel.app/
-      2. В поле цена указать от 1 до 12
+      1. В поле цена указать от 1 до 12
     expected-result: |
       Карточки показываются в соответствии с заданной ценой
     actual-result: |
