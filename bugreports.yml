@@ -5,7 +5,7 @@
    Google Chrome Версия 108.0.5359.125 (Официальная сборка), (64 бит)
    OC Windows 10 Pro 21H2
   steps-to-reproduce: |
-    1. Зайти на страницу https://hexlet-products-store.vercel.app/
+    1. Просмотреть карточку товара
   expected-result: |
     В каталоге на карточке товара отображается рейтинг
   actual-result: |
@@ -17,9 +17,8 @@
    Google Chrome Версия 108.0.5359.125 (Официальная сборка), (64 бит)
    OC Windows 10 Pro 21H2
   steps-to-reproduce: |
-    1. Зайти на страницу https://hexlet-products-store.vercel.app/
-    2. Добавить 4 товара в корзину
-    3. Зайти в корзину
+    1. Добавить 4 товара в корзину
+    2. Зайти в корзину
   expected-result: |
     В корзине не сбивается выравнивание количества товаров 
   actual-result: |
